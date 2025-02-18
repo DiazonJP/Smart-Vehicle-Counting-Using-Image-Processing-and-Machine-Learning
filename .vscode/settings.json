@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./ultralytics/yolo/v8/detect"
+    ],
+    "liveServer.settings.port": 5501
+}
